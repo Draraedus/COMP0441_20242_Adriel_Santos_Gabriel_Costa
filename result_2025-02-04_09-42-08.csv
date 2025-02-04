@@ -1,0 +1,385 @@
+tema_relacionado;titulo;data_de_abertura;data_de_conclusao;tempo_de_resolucao;milestone;autor;dev_responsavel
+['Refatoracao', 'Testes de Regressao'];print_rich leaves trailing tag if message contains line breaks;2025-02-03T14:02:57Z;2025-02-03T14:29:18Z;0.0;;Qubus0;Qubus0
+['Refatoracao', 'Testes de Regressao'];Node2D Clip Children option does nothing;2025-02-03T14:00:32Z;2025-02-03T14:02:49Z;0.0;;Doire;akien-mga
+[];"Sometimes when exporting in ""--headless"" mode, shaders with ""global uniform"" doesn't work";2025-02-03T13:36:00Z;2025-02-03T16:37:42Z;0.1;4.4;simonfita;simonfita
+['Refatoracao', 'Testes de Regressao'];"""Shader compilation failed."" on shaders containing ""global uniform"" when exporting with --headless";2025-02-03T13:16:28Z;2025-02-03T16:37:40Z;0.1;4.4;simonfita;AThousandShips
+['Refatoracao', 'Testes de Regressao'];ColorPicker RAW mode A slider is using wrong theme;2025-02-02T23:52:25Z;2025-02-03T17:18:17Z;0.7;4.4;Giganzo;Giganzo
+[];OS.execute_with_pipe is very buggy;2025-02-02T21:17:19Z;2025-02-03T17:18:17Z;0.8;4.4;RoyalXXX;bruvzg
+['Refatoracao', 'Testes de Regressao'];CanvasGroup rendering problem in v4.4 beta2;2025-02-02T14:57:30Z;2025-02-02T16:24:21Z;0.1;;gurugururu;Calinou
+[];Applied torque has no effect if CollisionShape2D is disabled;2025-02-02T13:54:57Z;2025-02-03T12:44:28Z;1.0;;ulfben;sthiago
+['Testes de Regressao'];Game window, BadWindow error when using 3d mode and clicking on 2d scene;2025-02-02T10:50:54Z;2025-02-03T14:23:41Z;1.1;4.4;Giganzo;Hilderin
+['Testes de Regressao'];Latest NVIDIA driver creating major rendering artifacts for 2D Forward+ renderer;2025-02-01T23:52:14Z;2025-02-02T00:24:13Z;0.0;;firebelley;firebelley
+['Refatoracao', 'Testes de Regressao'];Floating game window doesn't get focus when launched;2025-02-01T23:22:51Z;2025-02-03T14:23:39Z;1.6;4.4;Giganzo;Hilderin
+['Testes de Regressao'];Buggy rendering for Forward+ and Mobile in Editor with Vulkan 1.4;2025-02-01T23:18:36Z;2025-02-01T23:21:32Z;0.0;;A-S-Rock;akien-mga
+[];2D culling broken;2025-02-01T13:08:20Z;2025-02-02T11:50:55Z;0.9;;GuyUnger;kleonc
+['Refatoracao', 'Testes de Regressao'];Editor ui is glitched in Godot 4.4 beta 2;2025-02-01T07:07:48Z;2025-02-01T08:12:27Z;0.0;;KhrisDev11;KhrisDev11
+[];Browse scene icons are rendered broken after saving a scene;2025-01-31T23:12:58Z;2025-01-31T23:41:06Z;0.0;;ghuser404;ghuser404
+['Refatoracao', 'Testes de Regressao'];Unable to rename a project after quitting to project list;2025-01-31T23:10:46Z;2025-02-03T14:23:42Z;2.6;4.4;carvalho-paulo;Saulo-de-Souza
+['Refatoracao', 'Testes de Regressao'];"""Add New Action"" text field in Input Map Project Settings is unfocused after submitting a new action";2025-01-31T22:41:13Z;2025-02-01T19:42:28Z;0.9;4.4;Tenzenmaster;AThousandShips
+['Refatoracao', 'Testes de Regressao'];Numpad is not properly detected on Wayland;2025-01-31T20:24:26Z;2025-02-03T14:23:42Z;2.7;4.4;Cykyrios;akien-mga
+['Refatoracao', 'Testes de Regressao'];Exported game crashes, but working in the editor;2025-01-31T17:25:41Z;2025-01-31T18:48:34Z;0.1;;sszigeti;sszigeti
+['Refatoracao', 'Testes de Regressao'];4.4 beta 2 feedback;2025-01-31T17:02:55Z;2025-01-31T17:28:19Z;0.0;;sszigeti;AThousandShips
+['Refatoracao', 'Testes de Regressao'];Scrolling using ScrollContainer causes visual content overlapping;2025-01-31T14:21:34Z;2025-01-31T15:32:11Z;0.0;;alex-jade14;AThousandShips
+['Refatoracao'];High luminosity spotlights have a hard edge;2025-01-31T13:23:44Z;2025-02-03T14:23:40Z;3.0;4.4;Jamsers;AThousandShips
+['Refatoracao', 'Testes de Regressao'];Embed Game not available when multi window is disabled;2025-01-31T11:32:10Z;2025-01-31T15:19:20Z;0.2;4.4;Hilderin;Hilderin
+['Refatoracao', 'Testes de Regressao'];Editor wants to reload GDScript files constantly;2025-01-31T10:56:22Z;2025-02-03T14:23:40Z;3.1;4.4;miv391;AThousandShips
+[];Clip Children not working in Control nodes. [4.4 beta 2];2025-01-31T08:53:41Z;2025-01-31T09:12:50Z;0.0;;plyoung;AThousandShips
+['Refatoracao', 'Testes de Regressao'];Compose key on Linux (X11) gets you stuck.;2025-01-31T07:45:16Z;2025-02-02T09:26:53Z;2.1;;donn-xx;donn-xx
+['Refatoracao', 'Testes de Regressao'];[4.4] windows export template failing to build from linux mono editor;2025-01-31T05:55:38Z;2025-02-03T14:23:43Z;3.4;4.4;hpf3;bruvzg
+['Refatoracao', 'Testes de Regressao'];Embedded game windows prevents interacting with editor popups.;2025-01-31T04:57:29Z;2025-01-31T12:28:27Z;0.3;4.4;Decapitated;Chaosus
+[];"""Clip Children"" option under ""CanvasItem -> Visibility"" is no longer correctly masking children based on alpha when working with Controls.";2025-01-31T02:54:54Z;2025-01-31T06:29:09Z;0.1;4.4;Auxiar;arkology
+['Refatoracao', 'Testes de Regressao'];Saving a previously invalid compute shader from an external editor crashes the Godot editor;2025-01-30T19:47:23Z;2025-02-03T14:23:40Z;3.8;4.4;woldendans;AThousandShips
+[];Navigation design does not align with the rest of the engine;2025-01-30T19:32:50Z;2025-02-01T09:43:00Z;1.6;;0x0ACB;AThousandShips
+[];The moment I dock the shader editor in Windows 10 and make it full screen, godot crashes, instantly.;2025-01-30T18:16:34Z;2025-02-03T08:18:02Z;3.6;;mddm1;AThousandShips
+['Refatoracao', 'Testes de Regressao'];Lights/Shader issue after updating to v4.4-beta2;2025-01-30T17:40:03Z;2025-02-01T01:16:54Z;1.3;4.4;razcore-rad;Calinou
+[];Resizing a floating game window is slow;2025-01-30T17:13:04Z;2025-02-03T17:18:17Z;4.0;4.4;alanmelloni97;Chaosus
+['Testes de Regressao'];"Sprite2D ""Clip children"" no longer works";2025-01-30T13:26:29Z;2025-01-30T13:28:07Z;0.0;;Trinity1967;AThousandShips
+['Testes de Regressao'];4.4 exporting from Android editor: Freezing after cancelling file selection;2025-01-30T12:55:25Z;2025-02-01T20:25:57Z;2.3;;GlitchCode24;GlitchCode24
+['Refatoracao', 'Testes de Regressao'];Returning from ACPI sleep causes an unhandled loss of vulkan context;2025-01-30T11:08:00Z;2025-01-30T18:13:14Z;0.3;;Efimero;AThousandShips
+['Refatoracao', 'Testes de Regressao'];Label3D with MSDF has aliasing;2025-01-30T09:58:19Z;2025-01-31T15:19:23Z;1.2;4.4;celyk;akien-mga
+[];`sample_baked_with_rotation` in Curve3D ignores basis adjustments made with Tilt Handles;2025-01-30T04:52:54Z;2025-01-30T04:59:43Z;0.0;;Hyperspeed1313;Hyperspeed1313
+['Refatoracao', 'Testes de Regressao'];is_action_pressed not working Godot 4.4.beta1;2025-01-30T04:01:52Z;2025-01-30T17:55:13Z;0.6;;AbydosRoad;akien-mga
+[];4.4-beta1 crashes when loading a scene containing a GPUParticles3D instance with a ShaderMaterial process material;2025-01-30T00:47:02Z;2025-01-30T10:53:08Z;0.4;;tessarakkt;tessarakkt
+['Refatoracao', 'Testes de Regressao'];No KDE global menu support in godot.;2025-01-29T14:08:32Z;2025-01-30T18:53:08Z;1.2;;gabriel-galiana-jaime;adamscott
+['Refatoracao', 'Testes de Regressao'];`CanvasItem.clip_children` has no effect;2025-01-29T09:21:14Z;2025-01-29T23:47:40Z;0.6;4.4;mihe;mihe
+[];Drag & Drop file to FileSystem dock saves it in the underlying directory behind the opened directory;2025-01-29T08:01:27Z;2025-02-03T14:23:39Z;5.3;4.4;AldeonMoriak;AThousandShips
+['Testes de Regressao'];[4.4-beta1] Embed Game Mode overlap editor UI when single-window editor mode is enabled;2025-01-28T18:50:17Z;2025-01-28T19:16:53Z;0.0;;feeldoom;AThousandShips
+[];Different Colour Space Used in Visual Shader ColorParameter Depending on Qualifier Setting;2025-01-28T15:42:00Z;2025-01-29T12:15:45Z;0.9;;Pixelmusement;kleonc
+[];Shader disappears when looking up;2025-01-28T11:32:36Z;2025-01-28T22:08:05Z;0.4;;mddm1;AThousandShips
+[];Embedded game viewport is incorrectly placed on top of other UI with `single_window_mode=true`;2025-01-28T08:33:45Z;2025-01-28T09:02:18Z;0.0;;hapenia;AThousandShips
+[];Incorrect cubic interpolation when animating a Camera3D's FOV;2025-01-27T21:52:50Z;2025-01-28T12:28:06Z;0.6;;noahpete;fire
+['Refatoracao', 'Testes de Regressao'];Exported patch PCKs incorrectly mark imported resources for removal;2025-01-27T19:58:37Z;2025-01-28T15:08:57Z;0.8;4.4;mihe;mihe
+['Refatoracao', 'Testes de Regressao'];SVG import options are ignored during conversion to a Windows icon on export;2025-01-27T19:17:27Z;2025-01-31T15:19:22Z;3.8;4.4;Calinou;Calinou
+['Refatoracao', 'Testes de Regressao'];Objects defined as inner classes cannot be sent via RPC;2025-01-27T15:33:50Z;2025-01-28T14:01:57Z;0.9;;elenakrittik;AThousandShips
+['Testes de Regressao'];CurveTexture doesn't render properly on iOS Safari;2025-01-27T14:26:24Z;2025-01-28T15:08:58Z;1.0;4.4;adamscott;adamscott
+[];print shows wrong Xscale when turning left/right;2025-01-27T12:10:19Z;2025-01-27T12:53:17Z;0.0;;patFTS;AThousandShips
+[];The actual displayed size of SubViewportContainer will be different in standalone window and in-editor window.;2025-01-27T10:10:45Z;2025-01-27T18:02:11Z;0.3;;ledyba;ledyba
+['Refatoracao', 'Testes de Regressao'];Screen Selection when running the game in Editor isn't respected in 4.4 beta 1;2025-01-27T06:25:53Z;2025-01-27T08:21:51Z;0.1;;Aalaizah;bruvzg
+['Refatoracao', 'Testes de Regressao'];Emitting a one-shot particle effect in the editor marks the scene as unsaved even if no changes have occured;2025-01-27T05:37:51Z;2025-01-28T15:11:30Z;1.4;;subtlePanzer;clayjohn
+['Refatoracao', 'Testes de Regressao'];Memory leak when trying to free RID with RenderingServer.free_rid();2025-01-27T05:22:12Z;2025-01-27T07:00:06Z;0.1;;hafunui;clayjohn
+['Refatoracao', 'Testes de Regressao'];"godot4.4 beta1 in visibility range section ""END"" variable is missing.";2025-01-27T03:44:08Z;2025-01-27T04:14:08Z;0.0;;bongblender;bongblender
+[];FileDialog `FILE_MODE_OPEN_ANY` mode do not select right dir path.;2025-01-26T14:45:34Z;2025-01-27T15:51:10Z;1.0;4.4;shutaozhenzhen;bruvzg
+[];Collision Polygon tool buttons overlaps tileset dock tabs when expanded;2025-01-26T14:00:15Z;2025-01-26T21:12:21Z;0.3;;Burloe;kleonc
+['Refatoracao', 'Testes de Regressao'];U_FILE_ACCESS_ERROR on builds for Android and Linux;2025-01-26T08:41:48Z;2025-01-26T10:07:55Z;0.1;;ell-v;bruvzg
+[];New game window popup doesn't show on the specified screeen in settings.;2025-01-25T20:57:00Z;2025-01-26T00:00:23Z;0.1;;viksl;Hilderin
+[];"""Unhandled XServer error"" is printed every time the project is stopped when running from the editor with game embedding";2025-01-25T20:55:22Z;2025-01-27T15:51:10Z;1.8;4.4;Calinou;Calinou
+[];Shader compilation error when defining the MASS property to a Particle ShaderMaterial;2025-01-25T20:04:59Z;2025-01-29T23:47:48Z;4.2;4.4;daishishi;clayjohn
+[];Touchpad Gestures Reversed (Zoom and Scroll Interchanged);2025-01-25T19:35:27Z;2025-01-27T18:00:31Z;1.9;;ziadhassan7;AThousandShips
+['Refatoracao', 'Testes de Regressao'];Godot crashes when launching editor with OpenGL 3 backend.;2025-01-25T18:51:02Z;2025-01-26T11:28:11Z;0.7;;krisbug4;Calinou
+['Refatoracao'];"Signal ""child_order_changed"" gets error when an attempt to connect is made";2025-01-25T18:10:03Z;2025-01-25T20:05:28Z;0.1;;jpvienneau;AThousandShips
+['Testes de Regressao'];Audio Mic Record Demo fails to record when debug/settings/stdout/verbose_stdout=true on Linux;2025-01-25T11:02:29Z;2025-01-27T15:51:08Z;2.2;4.4;goatchurchprime;AThousandShips
+['Refatoracao', 'Testes de Regressao'];OS directory slashes on Windows are inconsistent with temp as \ and the rest are /;2025-01-25T03:36:40Z;2025-01-31T15:19:23Z;6.5;4.4;Cigam-HFden;Cigam-HFden
+[];"macOS editor app bundle uses old and constant ""Date Created"" and ""Date Modified"" values";2025-01-24T23:39:27Z;2025-01-28T15:08:59Z;3.6;4.4;Meorge;Meorge
+['Testes de Regressao'];Horrible Flickering when closing docks while embedded game is paused;2025-01-24T18:10:40Z;2025-01-28T15:08:57Z;3.9;4.4;Robert-K;AThousandShips
+[];SHADOWED_VARIABLE warning on variable declared on base class gives line in base class file, which is misleading;2025-01-24T17:58:32Z;2025-01-25T19:10:55Z;1.1;;hsandt;AThousandShips
+['Testes de Regressao'];Solid colors does not show on some Android devices;2025-01-24T14:33:07Z;2025-01-24T21:08:22Z;0.3;;keendra;Calinou
+['Refatoracao', 'Testes de Regressao'];[4.4-beta1.mono] Android app closes down on right-swipe if built with Gradle;2025-01-24T14:07:35Z;2025-01-28T15:08:59Z;4.0;4.4;keendra;keendra
+[];Child Scene nodes disappearing from loaded/instantiated PackedScenes;2025-01-24T05:15:07Z;2025-01-24T12:04:56Z;0.3;4.4;mrmikemon;kleonc
+['Refatoracao', 'Testes de Regressao'];Clicking on Stack Frames doesn't work when using External Editor;2025-01-23T18:57:24Z;2025-01-25T10:53:12Z;1.7;;Robert-K;kleonc
+['Refatoracao', 'Testes de Regressao'];`print_verbose` makes build fail when `scu_build=yes`;2025-01-23T18:54:14Z;2025-01-30T17:42:44Z;7.0;4.4;ydeltastar;AThousandShips
+[];AnimationPlayer scaling issue;2025-01-23T15:29:02Z;2025-01-30T17:42:45Z;7.1;4.4;ginqus;AThousandShips
+['Testes de Regressao'];ColorPicker load/save swatches button issues;2025-01-23T12:10:47Z;2025-01-31T15:19:24Z;8.1;4.4;Giganzo;Giganzo
+[];Godot NavigationAgent acting strangely since 4.4beta1. Worked fine in 4.4dev7;2025-01-23T09:02:19Z;2025-01-24T15:11:29Z;1.3;4.4;stesproject;AThousandShips
+['Refatoracao', 'Testes de Regressao'];Viewport.set_input_as_handled can not stop InputEventMouseMotion pass in sence tree;2025-01-23T06:34:07Z;2025-01-23T06:54:29Z;0.0;;iiiron;iiiron
+['Testes de Regressao'];Tween doesnt work with internal modulate properties;2025-01-23T02:25:15Z;2025-01-23T12:33:36Z;0.4;;shadowman;kleonc
+['Refatoracao', 'Testes de Regressao'];Editor Rendering is bugged with PR #90644 - Add CollisionShape3D custom debug colors;2025-01-22T22:51:11Z;2025-01-23T23:41:11Z;1.0;;RevoluPowered;RevoluPowered
+['Refatoracao', 'Testes de Regressao'];LSP stops working when Godot window becomes unfocused on Wayland;2025-01-22T21:08:31Z;2025-01-23T10:42:02Z;0.6;;gsthnz;Riteo
+[];DotNET: Deprecated signal causes build failure;2025-01-22T19:01:48Z;2025-01-27T15:51:08Z;4.9;4.4;RedMser;AThousandShips
+[];Wayland Cursor custom image doesn't update when using Image instead of Texture2D;2025-01-22T18:47:13Z;2025-01-31T15:19:22Z;8.9;4.4;wakeofluna;AThousandShips
+['Refatoracao', 'Testes de Regressao'];"ColorPicker can't click on ""Swatches"" full width";2025-01-22T17:03:56Z;2025-01-22T22:37:21Z;0.2;4.4;Giganzo;Giganzo
+['Testes de Regressao'];Engine Randomly Crashing - Logs indicate issue with get_global_position;2025-01-22T17:01:42Z;2025-01-23T15:19:58Z;0.9;;Jestus;AThousandShips
+['Refatoracao', 'Testes de Regressao'];Automatically trigger the 'finished' event for particles;2025-01-22T16:48:35Z;2025-01-22T16:54:43Z;0.0;;MrDesignLGC;AThousandShips
+[];Invalid mass error when using a `ConcavePolygonShape3D` as the collision for a `Area3D` in Jolt Physics;2025-01-22T15:16:59Z;2025-01-28T15:08:58Z;6.0;4.4;ydeltastar;AThousandShips
+['Testes de Regressao'];Can't pan on the visual shader editor while the mouse cursor is on a node preview;2025-01-22T14:42:42Z;2025-02-03T14:23:41Z;12.0;4.4;Calinou;Calinou
+[];AnimatableStaticBodies dont update position of children when moved when using Jolt physics;2025-01-22T13:32:43Z;2025-01-22T23:18:10Z;0.4;;how2Bboss;AThousandShips
+['Refatoracao', 'Testes de Regressao'];ColorPicker save/load swatches menu isn't hidden with presets_visible = false;2025-01-22T11:42:36Z;2025-01-28T22:13:26Z;6.4;4.4;Draradech;Giganzo
+[];"""Save branch as scene"" with ""Reset Scale"" sets scale to 0";2025-01-22T10:34:29Z;2025-01-24T15:11:30Z;2.2;4.4;ovendelon;AThousandShips
+['Refatoracao', 'Testes de Regressao'];[4.4 Beta1] Tooltips appear/disappear after pressing `Alt+Shift+F`;2025-01-22T10:24:25Z;2025-01-22T15:28:57Z;0.2;;dustdfg;AThousandShips
+['Refatoracao', 'Testes de Regressao'];Stuttering issue when using Godot 4.4 beta 1;2025-01-22T10:19:15Z;2025-01-24T15:11:22Z;2.2;4.4;yellowbigdog;AThousandShips
+['Refatoracao', 'Testes de Regressao'];Several GPUParticles3D Display attributes are broken;2025-01-22T08:19:59Z;2025-01-24T05:27:16Z;1.9;;occultpunk;AThousandShips
+['Refatoracao', 'Testes de Regressao'];Weird behavior from editing a script while an await is occuring;2025-01-22T05:18:12Z;2025-01-22T10:41:34Z;0.2;;MM4096;matheusmdx
+[];0 units-thin BoxShape3D has no working collision when using Jolt;2025-01-21T23:57:04Z;2025-01-24T15:11:29Z;2.6;4.4;Calinou;Calinou
+[];Inspector Panel jumps out of screen focus sometimes;2025-01-21T20:12:31Z;2025-01-22T06:47:49Z;0.4;;Saulo-de-Souza;JekSun97
+['Refatoracao', 'Testes de Regressao'];Godot Export Fails on macOS GitHub Workflow Runner Due to Metal Driver;2025-01-21T11:17:58Z;2025-01-21T13:41:39Z;0.1;4.4;onurtnrkl;AThousandShips
+['Refatoracao', 'Testes de Regressao'];Possible memory leak in gdextension.cpp when method names are duplicated;2025-01-21T07:44:52Z;2025-01-30T17:42:47Z;9.4;4.4;0x53A;0x53A
+['Refatoracao', 'Testes de Regressao'];"RichTextLabel emits ""finished"" signal when is_ready() is false";2025-01-21T03:31:22Z;2025-01-29T23:47:46Z;8.8;4.4;OptimalFailure;bruvzg
+['Testes de Regressao'];[4.4beta1] Script modification of CanvasTexture doesn't update;2025-01-21T02:20:15Z;2025-01-24T15:11:32Z;3.5;4.4;EmilyV99;EmilyV99
+[];Closing game running in editor no longer sends NotificationWMCloseRequest - v4.4Beta1;2025-01-21T01:14:41Z;2025-01-22T15:22:25Z;1.6;4.4;dxdesjardins;bruvzg
+[];Collisions between concave meshes - docs wrong or doesn't work as intended;2025-01-21T01:14:40Z;2025-01-21T22:04:03Z;0.9;;tritonian;AThousandShips
+['Testes de Regressao'];CPUParticles2D are not random anymore;2025-01-20T23:04:47Z;2025-01-21T17:58:19Z;0.8;4.4;KoBeWi;KoBeWi
+['Testes de Regressao'];UI bug with autowrap and horizontal expand;2025-01-20T21:30:27Z;2025-01-22T10:22:37Z;1.5;;Randommist;kleonc
+['Refatoracao', 'Testes de Regressao'];[IMPORTANT] godot-cpp commits to use to match official 4.4 beta releases;2025-01-20T21:28:48Z;2025-01-20T21:29:33Z;0.0;;dsnopek;dsnopek
+[];Lag caused by adding mesh to MeshInstance3D (possibly due to the use of threads) in Godot 4.4 dev4,5,6,7 and beta1;2025-01-20T17:37:10Z;2025-01-29T23:47:46Z;9.3;4.4;ogyrec-o;Calinou
+['Testes de Regressao'];Irronious shadow warnings for static functions;2025-01-20T15:25:44Z;2025-01-20T15:32:16Z;0.0;;betalars;AThousandShips
+['Refatoracao', 'Testes de Regressao'];Embedding does not work on i3 window manager;2025-01-20T13:50:21Z;2025-01-20T13:54:27Z;0.0;;ttencate;ttencate
+['Testes de Regressao'];[4.4] Shadows break rendering when 3D MSAA is enabled;2025-01-20T12:39:37Z;2025-01-30T06:16:46Z;9.7;;JekSun97;JekSun97
+['Refatoracao'];[C# godot 4.4 beta 1]System.MissingMethodException”(“Method not found: 'Boolean Godot.FileAccess.StoreBuffer(Byte[])';2025-01-20T12:24:42Z;2025-01-21T03:22:25Z;0.6;;bestvcboy;raulsntos
+['Refatoracao', 'Testes de Regressao'];[4.4beta1] Enabling SDFGI -> Desired set (1) not used by shader;2025-01-20T11:08:27Z;2025-01-29T23:47:45Z;9.5;4.4;TAGames;TAGames
+['Refatoracao', 'Testes de Regressao'];bbcode display [img] not correctly when autowarp working;2025-01-20T08:09:39Z;2025-01-27T15:51:15Z;7.3;4.4;phymagi;Maran23
+['Testes de Regressao'];[4.4beta1] When dragging a resource value, the resource details will unexpectedly expand;2025-01-19T22:05:39Z;2025-02-03T17:18:17Z;14.8;4.4;RinCamp;Giganzo
+['Refatoracao', 'Testes de Regressao'];Websocket client cuts message after 2^15 bytes;2025-01-19T21:51:27Z;2025-01-31T15:19:21Z;11.7;4.4;IceflowRE;IceflowRE
+['Refatoracao', 'Testes de Regressao'];Script editor reports parse error if last character of the file is `)` when creating inline lambdas;2025-01-19T15:46:07Z;2025-01-21T00:26:42Z;1.4;;coppolaemilio;coppolaemilio
+['Refatoracao', 'Testes de Regressao'];Error printed when selecting AnimatedSprite2D;2025-01-19T13:47:19Z;2025-01-21T11:47:47Z;1.9;;Giganzo;AThousandShips
+[];Can't resolve error `Can't change this state while flushing queries`;2025-01-19T11:29:58Z;2025-01-20T12:15:20Z;1.0;;Bulkzar;matheusmdx
+['Refatoracao', 'Testes de Regressao'];[4.4beta1] Quaternion arc constructor gives wrong rotation when vectors are the same;2025-01-19T06:33:53Z;2025-01-20T16:16:46Z;1.4;4.4;Xorblax;Xorblax
+['Testes de Regressao'];[4.4] SpriteFrames Editor, FPS display is incomplete;2025-01-19T00:16:14Z;2025-01-29T23:47:47Z;11.0;4.4;RinCamp;RinCamp
+['Refatoracao', 'Testes de Regressao'];Node Icons missing in Editor Doc;2025-01-18T22:27:15Z;2025-01-27T15:51:12Z;8.7;4.4;Maran23;AeioMuch
+['Refatoracao', 'Testes de Regressao'];"[4.4.beta1] Editor dialogs obscured while running the game in ""Single Window Mode""";2025-01-18T17:33:01Z;2025-01-18T17:37:32Z;0.0;;AlmostBiley;AlmostBiley
+[];Touchpad + key seems to not work in parallel;2025-01-18T15:22:45Z;2025-01-18T22:52:48Z;0.3;;metal3d;AThousandShips
+['Testes de Regressao'];Skeleton bones are not displayed correctly in model import window;2025-01-18T15:15:07Z;2025-01-18T23:44:22Z;0.4;;JekSun97;JekSun97
+['Refatoracao', 'Testes de Regressao'];"make the new ""game"" tab able to make the window its default size and not something in the same aspect ratio";2025-01-18T14:57:12Z;2025-01-18T15:16:47Z;0.0;;FowluhhDev;AThousandShips
+[];Error being spammed on exported builds. Godot 4.4.beta1;2025-01-18T14:13:53Z;2025-01-18T15:12:34Z;0.0;;TheOathMan;TheOathMan
+['Refatoracao', 'Testes de Regressao'];Editor Slower with Voicemeeter Opened;2025-01-18T14:01:38Z;2025-01-20T13:57:50Z;2.0;;gmthedoc;AThousandShips
+['Testes de Regressao'];Jolt Physics and sync_to_physics prevents any AnimatableBody3D transforms;2025-01-18T12:34:40Z;2025-01-20T16:16:43Z;2.2;4.4;flat20;mihe
+['Refatoracao', 'Testes de Regressao'];exported project unable to load icon referenced by uid;2025-01-18T11:43:42Z;2025-01-20T15:39:58Z;2.2;;Draradech;Draradech
+['Refatoracao', 'Testes de Regressao'];SDFGI visual banding / Regression in Godot 4.4 beta RC1;2025-01-18T10:35:14Z;2025-01-28T15:08:58Z;10.2;4.4;TheDamocles;Calinou
+['Refatoracao', 'Testes de Regressao'];Visual Shader causes error whenever Godot editor restarted;2025-01-18T10:03:51Z;2025-01-20T22:32:00Z;2.5;4.4;blackears;Chaosus
+['Refatoracao', 'Testes de Regressao'];[4.4beta1] ResourceLoader.has_cached() does not return proper values for UIDs;2025-01-18T09:46:38Z;2025-01-22T22:37:20Z;4.5;4.4;MTareqAzim;MTareqAzim
+['Testes de Regressao'];[4.4beta1] CPUParticles2D Don't Emit Randomly Over the Emission Rectangle;2025-01-18T09:04:20Z;2025-01-23T15:55:27Z;5.3;4.4;noahgree;AThousandShips
+['Refatoracao', 'Testes de Regressao'];程序无响应;2025-01-18T08:52:30Z;2025-01-22T12:16:48Z;4.1;;MUZHUYIN;Zireael07
+['Refatoracao', 'Testes de Regressao'];As of 4.4 Beta 1, one-shot particle system behavior is altered;2025-01-18T02:55:15Z;2025-01-20T16:16:49Z;2.6;4.4;AlexanderParker;clayjohn
+[];StaticBody3D detection instability in JoltPhysics;2025-01-17T21:21:17Z;2025-01-26T17:57:10Z;8.9;4.4;vaner-org;mihe
+[];Cannot close Editor when running game with unsaved changes in Single Window Mode;2025-01-17T20:46:34Z;2025-01-24T15:11:29Z;6.8;4.4;kitbdev;Hilderin
+['Testes de Regressao'];Item Cull Masks for the DirectionalLight2D node do not affect light coverage.;2025-01-17T20:05:22Z;2025-01-17T23:10:27Z;0.1;;evlynlangfrd;clayjohn
+['Refatoracao', 'Testes de Regressao'];Shadowmasks broken on Web exports when using RGTC texture compression;2025-01-17T18:52:03Z;2025-01-24T15:11:30Z;6.8;4.4;michaelharmonart;michaelharmonart
+[];NavigationRegion2D not correctly subtracting nested polygons;2025-01-17T18:40:22Z;2025-01-18T08:25:21Z;0.6;;e-Forest;AThousandShips
+['Refatoracao', 'Testes de Regressao'];Text is not rendered in the middle for some Controls;2025-01-17T17:50:23Z;2025-01-27T15:51:14Z;9.9;4.4;Maran23;clayjohn
+['Refatoracao', 'Testes de Regressao'];iOS export fails with provisioning profile error;2025-01-17T16:42:06Z;2025-01-30T17:42:46Z;13.0;4.4;RocketRonz;bruvzg
+['Testes de Regressao'];[4.4beta1] Adding CanvasTexture to a Sprite2D remains white until complete restart of editor;2025-01-17T16:36:24Z;2025-01-24T15:11:31Z;6.9;4.4;woutercommandeur;clayjohn
+['Refatoracao', 'Testes de Regressao'];[Godot 4.4 beta 1] Regression for the Compatibility Renderer;2025-01-17T16:04:44Z;2025-01-17T23:11:30Z;0.3;4.4;xsellier;Chaosus
+['Refatoracao', 'Testes de Regressao'];[4.4 Beta 1] Toggling the disabled property on CollisionShape3D with Jolt Physics will spam the area_entered signal;2025-01-17T15:27:57Z;2025-01-26T17:57:10Z;9.1;4.4;This-Gooch;AThousandShips
+['Refatoracao', 'Testes de Regressao'];Viewport width/height initial window size are not respected when running the game in editor (floating window);2025-01-17T14:34:46Z;2025-01-18T03:53:17Z;0.6;;Klaim;Klaim
+['Refatoracao', 'Testes de Regressao'];[4.4-beta.1] Game editor not embedded due to parameters for it being after `main_run_args` and `--`.;2025-01-17T14:34:20Z;2025-01-20T16:16:43Z;3.1;4.4;Creta5164;Creta5164
+[];Rendering issues using BackBufferCopy node in 4.4 beta 1;2025-01-17T14:05:48Z;2025-01-27T15:51:12Z;10.1;4.4;TanyaPegasus;AThousandShips
+[];TextureRect with ViewportTexture from SubViewport in SubViewportContainer crashes when switching back to scene tab.;2025-01-17T12:44:39Z;2025-01-21T17:58:18Z;4.2;4.4;Boxfort;AThousandShips
+[];No way to quit Embedded Game Window;2025-01-17T12:41:06Z;2025-01-17T13:15:15Z;0.0;;yosimba2000;Chaosus
+[];GPUParticles3D cannot set ShaderMaterial in process_material;2025-01-17T12:30:21Z;2025-01-17T16:27:21Z;0.2;4.4;jupiterbjy;jupiterbjy
+['Refatoracao', 'Testes de Regressao'];debug export has text_server ERROR in minimal project;2025-01-17T12:22:56Z;2025-01-17T16:27:20Z;0.2;4.4;Draradech;AThousandShips
+['Refatoracao', 'Testes de Regressao'];Serious visual regression with `NinePatchRect`;2025-01-17T10:22:22Z;2025-01-17T23:11:31Z;0.5;4.4;Chaosus;Chaosus
+['Refatoracao', 'Testes de Regressao'];"Certain unicode ""Miscellaneous Symbol"" characters do not have correct vertical offset in Labels unless a space character is added";2025-01-17T09:18:52Z;2025-01-27T15:51:15Z;10.3;4.4;FarzadBT;Chaosus
+['Refatoracao', 'Testes de Regressao'];Rigged Meshes causing crash on android (PowerVR GPU);2025-01-17T08:52:52Z;2025-01-17T10:40:21Z;0.1;;alikabeer32;shahriarlabib000
+[];Duplication menu behind embedded game;2025-01-17T08:24:46Z;2025-01-24T15:11:29Z;7.3;4.4;GuyUnger;Torguen
+[];Pausing the game spams NOTIFICATION_RESET_PHYSICS_INTERPOLATION warnings for each hidden node;2025-01-17T08:17:23Z;2025-01-20T16:16:44Z;3.3;4.4;TranquilMarmot;Kalamster
+['Refatoracao', 'Testes de Regressao'];Cannot scroll past the caret position in script;2025-01-17T02:13:25Z;2025-01-17T16:27:21Z;0.6;4.4;Giganzo;kitbdev
+['Refatoracao', 'Testes de Regressao'];Game Tab Docked buttons on hover tooltip should be displayed above in-game window;2025-01-17T01:58:48Z;2025-01-17T01:59:32Z;0.0;;mrjshzk;mrjshzk
+['Testes de Regressao'];Editor tooltips appear behind the embedded game window;2025-01-16T22:39:12Z;2025-01-24T15:11:28Z;7.7;4.4;Torguen;clayjohn
+[];AudioStreamPlayer plays audio across scenes when triggered through AnimationPlayer in web export;2025-01-16T22:05:18Z;2025-01-20T20:04:50Z;3.9;;elpozewaunig;AThousandShips
+['Testes de Regressao'];Can't import using ufbx this specific fbx file I made in Milkshape 3D;2025-01-16T20:48:06Z;2025-01-17T13:14:07Z;0.7;;fhgaha;fhgaha
+['Refatoracao', 'Testes de Regressao'];depth in spatial shaders has extremely low max range (Compatibility renderer);2025-01-16T15:23:02Z;2025-01-16T15:56:53Z;0.0;;wgetJane;clayjohn
+[];Godot crashes when duplicating omniLight;2025-01-16T13:19:36Z;2025-01-16T13:20:44Z;0.0;;Foyezes;AThousandShips
+['Refatoracao', 'Testes de Regressao'];Godot crashes when adding comma in call to tween_property();2025-01-16T08:27:26Z;2025-01-17T16:27:20Z;1.3;4.4;JakobTBech;bruvzg
+['Refatoracao', 'Testes de Regressao'];Follow Focus not working as expected in a rotated `ScrollContainer`;2025-01-16T02:01:38Z;2025-01-27T15:51:11Z;11.6;4.4;Rindbee;Rindbee
+['Testes de Regressao'];Rotated ScrollContainer may clip content incorrectly;2025-01-16T01:46:00Z;2025-01-16T02:28:57Z;0.0;;Rindbee;Rindbee
+[];horizontal_alignment not affecting text alignment if set in code;2025-01-16T01:01:24Z;2025-01-16T22:30:25Z;0.9;;wetbadger;kleonc
+['Refatoracao', 'Testes de Regressao'];Animated Textures don't pause even if the Process is paused.;2025-01-15T22:44:31Z;2025-01-16T08:53:03Z;0.4;;Andrymeda;Andrymeda
+['Refatoracao', 'Testes de Regressao'];[4.4-beta1] Loading compute shader on Linux crashes the editor;2025-01-15T21:46:21Z;2025-01-16T23:24:32Z;1.1;4.4;bearlikelion;akien-mga
+[];Normal Map (RG Channels) import option has no memory difference in UI;2025-01-15T21:19:48Z;2025-01-17T16:27:22Z;1.8;4.4;FireCatMagic;FireCatMagic
+['Refatoracao', 'Testes de Regressao'];TextEdit using IME doesn't scroll to caret horizontally;2025-01-15T18:41:44Z;2025-01-16T23:24:29Z;1.2;4.4;kitbdev;AThousandShips
+[];`Path3D` and `PathFollow3D` spam `Basis` error on load;2025-01-15T17:13:04Z;2025-01-22T13:30:42Z;6.8;4.4;ydeltastar;ydeltastar
+[];Attaching a script to a scene does not use its uid;2025-01-15T16:52:40Z;2025-01-20T16:16:48Z;5.0;4.4;geowarin;AThousandShips
+['Refatoracao', 'Testes de Regressao'];Baking LightmapGI with emission in Compatibility renderer leads to broken colors;2025-01-15T16:39:06Z;2025-01-20T16:16:43Z;5.0;4.4;SkanerSoft;AThousandShips
+[];GDScript autocompletion for enum in match statement doesn't works properly;2025-01-15T16:14:13Z;2025-01-15T17:52:20Z;0.1;;zinclesdown;AThousandShips
+[];Unable to export iOS builds;2025-01-15T14:56:22Z;2025-01-16T11:55:01Z;0.9;4.4;mihe;mihe
+['Testes de Regressao'];Godot app closing before it even loads the project selection window.;2025-01-15T13:10:18Z;2025-01-15T13:34:56Z;0.0;;Guzman-Dev;Guzman-Dev
+[];TextServer shaped_text_shape() finalizes the text buffer ?;2025-01-15T12:32:24Z;2025-01-16T23:24:31Z;1.5;4.4;diiiv9;AThousandShips
+['Testes de Regressao'];Duplicating a script triggers modified outside Godot dialog;2025-01-15T11:52:29Z;2025-01-26T17:57:10Z;11.3;4.4;Giganzo;akien-mga
+['Refatoracao'];Inspector loads slowly when there's many Color properties;2025-01-15T03:09:29Z;2025-01-21T17:58:19Z;6.6;4.4;larspet;larspet
+['Refatoracao', 'Testes de Regressao'];Godot built from the master branch crashes when pressing enter on the project manager screen;2025-01-14T19:35:22Z;2025-01-16T00:49:31Z;1.2;4.4;Klemmbaustein;SpockBauru
+[];Web Export Debug Broken in 4.4.dev4+;2025-01-14T19:05:16Z;2025-01-16T00:49:31Z;1.2;4.4;FeralBytes;akien-mga
+['Refatoracao'];[Web] Adjusting NoiseTexture offset during `_process()` severely impacts FPS;2025-01-14T16:23:56Z;2025-01-17T18:39:21Z;3.1;;FeralBytes;akien-mga
+[];The project's window title isn't visible when using a floating game window;2025-01-14T14:10:01Z;2025-01-20T16:16:46Z;6.1;4.4;Calinou;Calinou
+['Refatoracao', 'Testes de Regressao'];Project Manager window overlaps when resizing with no projects and non-English language;2025-01-14T09:27:01Z;2025-01-16T23:24:34Z;2.6;4.4;zedqwee;Chaosus
+['Refatoracao', 'Testes de Regressao'];godot crashes when entering editor;2025-01-13T21:53:10Z;2025-01-14T15:41:12Z;0.7;;gdandsm64fan123;gdandsm64fan123
+[];Area2D collision detection Error. Directly multiplying in velocity does not work;2025-01-13T20:25:40Z;2025-01-13T20:26:14Z;0.0;;Py-dummy;Py-dummy
+['Refatoracao', 'Testes de Regressao'];Interact with `TabBar` in theme editor can crash Godot under specific window size;2025-01-13T19:22:51Z;2025-01-14T17:32:38Z;0.9;4.4;matheusmdx;YeldhamDev
+[];`ERROR: Attempt to disconnect a nonexistent connection from '<ParticleProcessMaterial>'. Signal: 'emission_shape_changed', callable: 'GPUParticles3D::update_gizmos'.` when GPUParticles3D exit the tree;2025-01-13T18:00:16Z;2025-01-14T17:32:36Z;1.0;4.4;AeioMuch;paddy-exe
+['Refatoracao'];Nesting custom bbcodes 'multiplies' offset;2025-01-13T14:48:20Z;2025-01-14T11:09:35Z;0.8;4.4;pmoosi;AThousandShips
+['Refatoracao', 'Testes de Regressao'];Crash on opening Vulkan project with Bandicam installed;2025-01-13T06:05:13Z;2025-01-16T23:24:24Z;3.7;4.4;XavierGameStudio;clayjohn
+['Refatoracao', 'Testes de Regressao'];"Disabling ""Script Editor"" feature disables the ability to open script files in an external editor as well.";2025-01-12T20:44:05Z;2025-01-13T10:07:25Z;0.6;;Crystalwarrior;Crystalwarrior
+['Refatoracao'];bbcode cell ratio does not expand cell size;2025-01-12T14:24:30Z;2025-01-13T23:22:39Z;1.4;4.4;JimArtificer;inhalt120g
+['Refatoracao', 'Testes de Regressao'];bbcode bgcolor acts as fgcolor when combined with table;2025-01-12T13:54:21Z;2025-01-14T01:19:38Z;1.5;4.4;JimArtificer;AThousandShips
+['Refatoracao', 'Testes de Regressao'];NOTIFICATION_WM_GO_BACK_REQUEST is emitted two times per one press;2025-01-12T06:39:15Z;2025-01-13T19:28:58Z;1.5;4.4;Summersay415;syntaxerror247
+['Refatoracao', 'Testes de Regressao'];Right click a text file in the filesystem makes the engine throw the error `Cannot get class 'TextFile'`;2025-01-11T21:18:15Z;2025-01-16T23:24:31Z;5.1;4.4;matheusmdx;SaracenOne
+[];English terms in Czech localization;2025-01-11T19:57:10Z;2025-01-12T00:27:02Z;0.2;;mareknovakz;AThousandShips
+['Testes de Regressao'];Code editor ctrl-click navigation broken and only opens auto generated docs;2025-01-11T16:17:11Z;2025-01-11T17:15:17Z;0.0;4.4;samsface;samsface
+['Refatoracao', 'Testes de Regressao'];LineEdit loses text input focus after input has been submitted;2025-01-11T16:04:09Z;2025-01-11T22:00:40Z;0.2;;Invium-GH;Rocka06
+[];Duplicating a folder messes up script UIDs;2025-01-11T15:56:21Z;2025-01-20T22:31:59Z;9.3;4.4;GuyUnger;AThousandShips
+['Refatoracao', 'Testes de Regressao'];Editor Settings: Gridmap Preview Size not being updated;2025-01-11T14:45:40Z;2025-01-14T11:09:36Z;2.8;4.4;Nodragem;Nodragem
+['Refatoracao', 'Testes de Regressao'];No menu bar. (please help);2025-01-11T02:53:06Z;2025-01-11T03:21:49Z;0.0;;SamisHam1078;SamisHam1078
+[];CollisionPolygon3D lacks the color customization options that CollisionShape3D has;2025-01-10T23:45:58Z;2025-01-21T17:58:12Z;10.8;4.4;Calinou;Calinou
+[];CollisionPolygon3D is not visible in the running project when Visible Collision Shapes is enabled in the Debug menu;2025-01-10T23:44:57Z;2025-01-21T17:58:13Z;10.8;4.4;Calinou;Calinou
+['Refatoracao', 'Testes de Regressao'];Crash when user tries to pick a color on Linux;2025-01-10T23:42:43Z;2025-01-14T11:09:37Z;3.5;4.4;dkflRus;fire
+['Refatoracao', 'Testes de Regressao'];Crash when editing text in LineEdit/TextEdit on Linux/Wayland;2025-01-10T21:20:43Z;2025-01-22T15:22:25Z;11.8;4.4;em-s-h;akien-mga
+['Testes de Regressao'];"Empty Favorite List ""Open in"" Crashes Engine";2025-01-10T18:23:57Z;2025-01-10T18:27:41Z;0.0;;mcdz;AThousandShips
+[];"""Game View"" window mode can not be editor feature disabled with single-window mode";2025-01-10T15:10:15Z;2025-01-10T22:08:06Z;0.3;4.4;smix8;smix8
+['Testes de Regressao'];Baking LightmapGI with shadowmasks can crash Godot after transparency support was added;2025-01-10T13:23:06Z;2025-02-03T14:23:43Z;24.0;4.4;GustJc;Geometror
+[];`draw_line` lines are not showing on web builds with AMD graphics;2025-01-10T12:37:22Z;2025-01-10T13:50:06Z;0.1;;NitramiuZ;AThousandShips
+['Refatoracao', 'Testes de Regressao'];Keys do not release properly if left shift and right shift are held at the same time;2025-01-10T10:17:59Z;2025-01-21T17:58:12Z;11.3;4.4;ghostsoft;AThousandShips
+[];New scene instances has modified exported array content;2025-01-09T22:14:59Z;2025-01-10T11:31:58Z;0.6;;nezvers;nezvers
+['Refatoracao', 'Testes de Regressao'];"Searching a method via the ""Search Help"" dialog takes you to the right documentation page, but at the bottom of the page";2025-01-09T18:21:23Z;2025-01-10T06:15:23Z;0.5;;mieldepoche;Celadorado
+['Refatoracao', 'Testes de Regressao'];Audio animation track not playing if clip is offset to the left (before 0 time).;2025-01-09T17:34:10Z;2025-01-15T08:01:23Z;5.6;;jcarlosrc;AThousandShips
+['Refatoracao', 'Testes de Regressao'];4.4.dev7 get_display_safe_area() with external monitor attached returning odd results;2025-01-09T11:41:31Z;2025-01-09T13:01:41Z;0.1;;SoloRobo;bruvzg
+['Refatoracao', 'Testes de Regressao'];Using Reflection Probe near a screen-reading material causes the probe to turn white;2025-01-09T09:30:15Z;2025-01-09T19:22:51Z;0.4;;tzwel;BlueCube3310
+[];GPU particles clump up when emitted at higher speed;2025-01-09T09:04:05Z;2025-01-11T16:41:58Z;2.3;;blackears;akien-mga
+[];The audio importer shows an incorrect option when multiple files are selected.;2025-01-09T08:48:24Z;2025-01-09T09:00:36Z;0.0;;Torguen;Torguen
+['Refatoracao', 'Testes de Regressao'];`ColorPicker` This line is redundant.;2025-01-09T05:06:47Z;2025-01-14T11:09:38Z;5.3;4.4;WhalesState;WhalesState
+[];Race Condition in NavigationServer3D;2025-01-08T22:15:10Z;2025-01-30T11:53:41Z;21.6;4.3;aromancev;akien-mga
+['Refatoracao', 'Testes de Regressao'];"Error opening a new project for the first time on Linux: ""ERROR: Index p_screen = -5 is out of bounds (screen_count = 1).""";2025-01-08T21:39:56Z;2025-01-10T22:08:07Z;2.0;4.4;akien-mga;akien-mga
+['Refatoracao', 'Testes de Regressao'];"Pressing ""Run Project"", opening godot, and opening a project in the editor causes a crash most of the time";2025-01-08T16:34:13Z;2025-01-14T15:55:22Z;6.0;;Wastour;AThousandShips
+[];Can't edit or use AnimationNodeBlendSpace2D in AnimationNodeStateMachine root;2025-01-08T16:30:38Z;2025-01-09T16:59:25Z;1.0;;kevzettler;AThousandShips
+['Refatoracao', 'Testes de Regressao'];Crash when duplicating file with Ctrl+Drag and drop;2025-01-08T13:36:07Z;2025-02-03T14:23:41Z;26.0;4.4;KoBeWi;KoBeWi
+[];Objects passed to Array.any's Callable argument lose their type information.;2025-01-08T13:13:35Z;2025-01-08T14:15:29Z;0.0;;MarcusVoelker;AThousandShips
+['Refatoracao'];Typed Dictionary values not saving on custom Resources;2025-01-08T12:36:55Z;2025-01-08T14:24:08Z;0.1;;rbarongr;kleonc
+[];scroll container dragging works only on V, HBoxContainer doesn't work on other control nodes;2025-01-08T11:34:30Z;2025-01-08T14:16:49Z;0.1;;MarkoGrbec;kleonc
+[];[4.3] Flip_V will not flip normal map when NORMAL_MAP is set.;2025-01-08T09:29:14Z;2025-01-08T15:43:29Z;0.3;;RickyYCheng;RickyYCheng
+['Testes de Regressao'];[4.3] Flip_V is wrong when NORMAL_MAP is set.;2025-01-08T09:28:49Z;2025-01-08T09:44:30Z;0.0;;RickyYCheng;RickyYCheng
+[];JSON files are exported with floats having trailing .0 when they should not;2025-01-08T08:56:15Z;2025-01-10T19:32:41Z;2.4;4.4;aaronfranke;aaronfranke
+[];Keys of untyped dictionaries are no longer displayed in the Editor;2025-01-08T08:48:15Z;2025-01-09T12:52:00Z;1.2;4.4;Sauermann;Sauermann
+['Testes de Regressao'];ColorPicker picking color on Linux is unusable when single window mode is disabled;2025-01-08T04:11:38Z;2025-01-08T23:47:41Z;0.8;4.4;WhalesState;WhalesState
+[];Threads, Mutex and await Timer interaction mismatch;2025-01-08T04:06:57Z;2025-01-16T03:42:39Z;8.0;;PeterMarques;PeterMarques
+['Refatoracao', 'Testes de Regressao'];[4.3&4.4-dev7] Light: Gdshader Normal assignment seems wrong.;2025-01-08T03:04:59Z;2025-01-08T06:19:23Z;0.1;;RickyYCheng;RickyYCheng
+[];"`.blend` ""Save to File"" breaks when assigned uid.";2025-01-08T01:34:03Z;2025-01-31T15:19:20Z;23.6;4.4;SomeRanDev;AThousandShips
+[];BBCode [fade] tag doesn't fade properly when there's a newline before the tag;2025-01-07T22:21:59Z;2025-01-13T19:28:59Z;5.9;4.4;Oliver-makes-code;AThousandShips
+[];Timer.stop does not result in syntax error;2025-01-07T18:45:13Z;2025-01-07T19:01:29Z;0.0;;scotmcp;AThousandShips
+['Refatoracao', 'Testes de Regressao'];4.4.dev7 Android Export Immersive Mode Not Working;2025-01-07T18:35:15Z;2025-01-08T07:59:37Z;0.6;;SoloRobo;syntaxerror247
+[];Compilation warning `-Wstringop-overflow=` in `audio_effect_pitch_shift.cpp` with mingw-gcc;2025-01-07T17:38:42Z;2025-01-09T10:22:27Z;1.7;4.4;threezinedine;akien-mga
+['Refatoracao', 'Testes de Regressao'];Godot Editor randomly becomes unresponsive in large projects except if Single Window Mode is enabled.;2025-01-07T15:47:32Z;2025-01-08T12:39:20Z;0.9;;nan0m;Chaosus
+[];No API for VideoStreamPlayback audio mix callback in gdextension bindings;2025-01-07T15:25:34Z;2025-01-07T15:40:45Z;0.0;;claytercek;AThousandShips
+[];Godot Engine 4.x Editing any projects makes the editor black screen;2025-01-07T11:13:18Z;2025-01-07T11:39:18Z;0.0;;Plasimticis;Plasimticis
+['Refatoracao', 'Testes de Regressao'];Open an in-editor menu requires an extra click;2025-01-07T08:30:03Z;2025-01-08T17:28:34Z;1.4;4.4;Chaosus;Sauermann
+['Refatoracao', 'Testes de Regressao'];Scene tree vertical spacing between nodes is larger than the previous versions;2025-01-07T06:44:24Z;2025-01-13T16:34:19Z;6.4;;mikeklubnika;AThousandShips
+['Refatoracao', 'Testes de Regressao'];JoltPhysics3D: Debug visible collisions crash;2025-01-07T06:42:56Z;2025-01-10T22:08:09Z;3.6;4.4;hilloftheking;akien-mga
+[];When starting the program, set the visible of texturerect or colorrect to true, and a problem occurs;2025-01-07T06:39:53Z;2025-02-01T10:57:58Z;25.2;;huhonglei;kleonc
+['Refatoracao', 'Testes de Regressao'];[4.3 stable] Android gradle build export error;2025-01-07T03:40:07Z;2025-02-01T10:57:33Z;25.3;;Artist128;syntaxerror247
+['Refatoracao', 'Testes de Regressao'];FeatureTag ProjectSettings overriding is not automatic;2025-01-07T02:56:00Z;2025-01-07T03:50:44Z;0.0;;walksanatora;walksanatora
+['Refatoracao', 'Testes de Regressao'];Editor crash when trying to duplicate OmniLight3D;2025-01-07T00:14:58Z;2025-01-07T00:17:46Z;0.0;;mrjshzk;mrjshzk
+[];Unexpected `is_editor_hint()` behavior;2025-01-06T23:57:08Z;2025-01-07T00:05:08Z;0.0;;Jeremylinyh;akien-mga
+[];Pushed Simulated InputEventKey does not work;2025-01-06T19:31:18Z;2025-01-06T22:00:05Z;0.1;;PeterMarques;AThousandShips
+[];Anchored Control Nodes Ignore Content Scale Factor & Minimum Size;2025-01-06T18:25:38Z;2025-01-13T00:36:18Z;6.3;;RobertBColton;kleonc
+[];SCons detect configure removes LINKFLAGS added beforehand (eg. command line);2025-01-06T17:22:13Z;2025-01-26T17:57:10Z;20.0;4.4;dekaravanhoc;AThousandShips
+['Refatoracao', 'Testes de Regressao'];"Cannot ""Load"" a resource without using the Quick Open Dialog (Load dialog not available anymore)";2025-01-06T15:20:07Z;2025-01-31T15:19:20Z;25.0;4.4;xsellier;AThousandShips
+['Refatoracao', 'Testes de Regressao'];Resetting decal texture crashes Godot;2025-01-06T14:11:09Z;2025-01-06T15:27:43Z;0.1;4.4;Sp1cyP3pp3r;novemberist
+['Testes de Regressao'];Animating visible property issue;2025-01-06T04:08:15Z;2025-01-06T04:09:20Z;0.0;;gamecoder-nz;gamecoder-nz
+['Refatoracao', 'Testes de Regressao'];"C# ""Cannot access a disposed object."" when calling Time.GetTicksMsec() from a background thread";2025-01-06T02:20:54Z;2025-01-11T20:12:55Z;5.7;;Avantir-Chaosfire;AThousandShips
+[];ItemList is unexpectedly scrolling up;2025-01-05T22:41:08Z;2025-01-06T19:45:40Z;0.9;;Zylann;Rindbee
+[];Embedded game does not respect focus border;2025-01-05T13:15:04Z;2025-01-06T21:56:59Z;1.4;4.4;Hilderin;Hilderin
+['Refatoracao', 'Testes de Regressao'];Keyboard input of an acute accent FREEZES the editor;2025-01-05T03:17:05Z;2025-01-05T09:29:44Z;0.3;;denisdamata;Sauermann
+[];"""Tween_method()"" method works in inverse when handling binded callables";2025-01-05T00:09:22Z;2025-01-08T12:45:52Z;3.5;;JakeCC-Codes;AThousandShips
+['Refatoracao', 'Testes de Regressao'];Horizontally resizing TextEdit with very long contents is very slow even with word wrapping disabled (4.3+);2025-01-04T23:17:20Z;2025-01-09T12:52:03Z;4.6;4.4;wareya;wareya
+['Refatoracao', 'Testes de Regressao'];Profiler autostart button opens wrong tab page;2025-01-04T21:57:57Z;2025-01-05T13:16:27Z;0.6;;miv391;arkology
+['Refatoracao', 'Testes de Regressao'];Unable to export gurdle build;2025-01-04T12:49:34Z;2025-01-04T12:58:31Z;0.0;;Artist128;AThousandShips
+[];RandomRange VisualShader Node throws error when connected to Varying Setter;2025-01-03T19:03:12Z;2025-01-20T22:31:59Z;17.1;4.4;michaelharmonart;AThousandShips
+['Refatoracao', 'Testes de Regressao'];C# JoyConnectionChanged wrong delegate arguments;2025-01-03T14:59:45Z;2025-01-03T15:02:52Z;0.0;;conde2;AThousandShips
+['Testes de Regressao'];Reflection erroneously shows sky when blending between probes;2025-01-03T14:24:37Z;2025-01-07T09:16:25Z;3.8;4.4;atirut-w;AThousandShips
+['Refatoracao', 'Testes de Regressao'];Race Condition in `EmbeddedProcess::_try_embed_process`;2025-01-03T11:24:52Z;2025-01-06T21:57:00Z;3.4;4.4;0x0ACB;AThousandShips
+['Refatoracao', 'Testes de Regressao'];Adding a `MultiMeshInstance3D` node to a `Node3D` node, clicking the in-editor `MultiMesh` button, and selecting `Target Surface` button, crashes Godot 4.4.dev7.;2025-01-03T11:15:34Z;2025-01-03T23:24:01Z;0.5;4.4;AlexYates;AThousandShips
+[];The file system dock scrolls automatically when saving a scene.;2025-01-03T10:03:27Z;2025-01-06T21:57:05Z;3.5;4.4;Torguen;AThousandShips
+[];Gridmap does not work in Godot 4.4dev7. Check the attached files.;2025-01-03T07:59:28Z;2025-01-03T18:19:29Z;0.4;;germanomartins;AThousandShips
+['Refatoracao', 'Testes de Regressao'];Segfault in `SceneTreeEditor::NodeCache::mark_dirty`;2025-01-02T23:12:53Z;2025-01-06T21:57:11Z;3.9;4.4;jivvy;jivvy
+[];GDExtension classes do not show up in editor;2025-01-02T21:37:08Z;2025-01-14T11:29:30Z;11.6;;DavidJHartman;AThousandShips
+['Refatoracao', 'Testes de Regressao'];ERROR: Invalid call. Nonexistent function 'get_navigation_map' in base 'Godot.NavigationLink2D'.;2025-01-02T20:09:18Z;2025-01-03T00:40:46Z;0.2;;ChekhWasTaken;AThousandShips
+[];SubViewport with `size_2d_override_stretch` texture is scaled;2025-01-02T18:35:53Z;2025-01-24T05:30:10Z;21.5;4.4;pmoosi;AThousandShips
+['Refatoracao', 'Testes de Regressao'];[3.x] HTML5 build error: Expected top-level entity;2025-01-02T17:17:31Z;2025-01-12T16:52:19Z;10.0;;bsdzy;AThousandShips
+['Refatoracao', 'Testes de Regressao'];Custom documentation not visible in Editor after closing and reopening the project. It comes back after the script is resaved.;2025-01-02T17:09:17Z;2025-01-02T17:53:36Z;0.0;;SlimFishyy;AThousandShips
+['Refatoracao', 'Testes de Regressao'];ugly .gd.uid.why don't let all .gd.uid to one dir like .godot?;2025-01-02T15:15:51Z;2025-01-02T15:18:04Z;0.0;;yythlj;AThousandShips
+[];You can only copy a scene path once.;2025-01-02T11:36:41Z;2025-01-02T11:37:49Z;0.0;;Torguen;AThousandShips
+['Refatoracao', 'Testes de Regressao'];Skeleton3D creates PhysicalBoneSimulator3D duplicate on game start;2025-01-02T09:25:13Z;2025-01-02T09:46:07Z;0.0;;CrayolaEater;CrayolaEater
+[];Thumb distal missing from docs page;2025-01-01T02:26:52Z;2025-01-11T21:38:34Z;10.8;4.4;fire;RedMser
+['Refatoracao', 'Testes de Regressao'];PointLight2D doesn't work properly with an AtlasTexture;2024-12-31T17:04:36Z;2024-12-31T17:17:07Z;0.0;;HatAndTie;AThousandShips
+['Refatoracao', 'Testes de Regressao'];PopupMenu with prefer_native_menu=true does not emit popup_hide signal on Windows;2024-12-31T15:58:17Z;2025-01-03T00:08:31Z;2.3;4.4;marcelovbcfilho;AThousandShips
+['Testes de Regressao'];[4.4 dev 7] crash when duplicating light nodes;2024-12-31T07:11:44Z;2024-12-31T10:22:32Z;0.1;;SlashScreen;matheusmdx
+[];Some UID string values are incorrectly re-encoded;2024-12-31T04:35:52Z;2025-01-06T21:57:03Z;6.7;4.4;anknetau;anknetau
+[];The get_children function does not get a correct result if the argument include_internal is true;2024-12-31T03:22:10Z;2024-12-31T09:38:29Z;0.3;;chamer-vati;matheusmdx
+['Refatoracao', 'Testes de Regressao'];_unhandled_key_input() is buggy when moving CharacterBody2D;2024-12-31T03:18:37Z;2024-12-31T09:21:52Z;0.3;;The-oldone;matheusmdx
+['Refatoracao'];Incorrect behaviour of InputEventMouseButton while holding mouse button;2024-12-30T22:26:38Z;2024-12-31T15:58:46Z;0.7;;hlebchekkk;kleonc
+['Refatoracao', 'Testes de Regressao'];[4.4.dev5] Websockets stuck in STATE_CLOSING;2024-12-30T19:00:21Z;2025-01-20T16:16:45Z;20.9;4.4;Swarkin;AThousandShips
+[];Converting GPUParticles3D to CPUParticles3D (or vice versa) doesn't preserve ring emission shape properties;2024-12-30T18:15:20Z;2025-01-06T21:57:06Z;7.2;4.4;Calinou;Calinou
+[];Can't Preload GDScript UIDs on Export Builds;2024-12-30T17:36:25Z;2025-01-11T21:38:34Z;12.2;4.4;Gastronok;dalexeev
+['Refatoracao', 'Testes de Regressao'];An `OptionButton` will not show its options when clicked if its parent window has `always_on_top` enabled.;2024-12-30T17:36:14Z;2024-12-30T17:42:35Z;0.0;;regimensocial;regimensocial
+[];Problem loading scenes from a certain directory on Android device;2024-12-30T17:35:38Z;2024-12-31T14:23:58Z;0.9;;isumaeru-ruzu;syntaxerror247
+[];Removed scene is recreated;2024-12-30T17:29:41Z;2024-12-31T20:04:11Z;1.1;;miv391;ghost
+['Refatoracao', 'Testes de Regressao'];Getters and setters returning wild values;2024-12-30T14:46:32Z;2024-12-30T18:03:35Z;0.1;;inhalt120g;export
+['Refatoracao', 'Testes de Regressao'];[v4.4dev7] Godot crash when selecting Skeleton property on MeshInstance3D;2024-12-30T08:36:43Z;2024-12-30T10:47:25Z;0.1;4.4;DexterFstone;matheusmdx
+[];Light2D culling is broken;2024-12-30T07:14:53Z;2025-01-06T21:57:02Z;7.6;4.4;Macksaur;kleonc
+['Refatoracao', 'Testes de Regressao'];Icon and splash screen raw files are not included in exported project;2024-12-30T05:18:20Z;2025-01-22T22:37:20Z;23.7;4.4;Summersay415;Summersay415
+[];Editing a custom `ArrayMesh` from the inspector steals mouse control and interrupts the edit;2024-12-29T23:21:23Z;2024-12-30T10:08:36Z;0.4;;MajorMcDoom;kleonc
+['Refatoracao', 'Testes de Regressao'];Regression: LSP sends unparsable message, breaking text editor lsp integration.;2024-12-29T20:13:36Z;2025-01-14T14:06:22Z;15.7;4.4;WolfEYc;akien-mga
+[];Regression: LightmapGI OmniLight3D light_size no longer emits outside of radius.;2024-12-29T18:05:09Z;2025-01-03T00:08:37Z;4.3;4.4;spookto;matheusmdx
+[];Editing collapsed line expands the collapsed line above it;2024-12-29T16:46:17Z;2024-12-30T17:20:50Z;1.0;;CianFlint;Saulo-de-Souza
+['Refatoracao', 'Testes de Regressao'];Debugging embedded game does not refocus on continue;2024-12-29T13:45:18Z;2024-12-30T15:08:07Z;1.1;4.4;Hilderin;Hilderin
+['Refatoracao', 'Testes de Regressao'];`MODE_EXCLUSIVE_FULLSCREEN` doesn't work on Wayland;2024-12-29T11:25:17Z;2025-01-06T21:57:08Z;8.4;4.4;Summersay415;Summersay415
+['Refatoracao', 'Testes de Regressao'];Exporting project as ZIP doesn't include ANGLE or DX3D12 libraries;2024-12-29T09:10:08Z;2025-01-08T23:47:41Z;10.6;4.4;Summersay415;Chaosus
+['Refatoracao', 'Testes de Regressao'];Editor Crashing when trying to show tooltips for script name in Script Editor;2024-12-29T00:49:05Z;2025-01-03T21:47:24Z;5.9;4.4;Roscomo;matheusmdx
+[];Viewport size doesn't match what's defined in the project settings when running a project with floating game window;2024-12-29T00:17:29Z;2025-01-22T15:22:25Z;24.6;4.4;Calinou;Calinou
+['Testes de Regressao'];`keys_pressed` does not seem to accurately reflect the keys being pressed on Wayland;2024-12-28T21:02:18Z;2025-01-21T17:58:20Z;23.9;4.4;pcvonz;Chaosus
+['Testes de Regressao'];"""Ctrl + click"" broken in script text editor for script functions";2024-12-28T07:05:22Z;2024-12-28T11:53:30Z;0.2;;SeremTitus;SeremTitus
+['Refatoracao'];GDScript RPC Call Fails due to Typing;2024-12-27T16:24:31Z;2024-12-27T17:26:03Z;0.0;;WywySenarios;WywySenarios
+['Testes de Regressao'];"Projection::invert fails with `Condition ""0.0 == r3[3]"" is true`";2024-12-27T14:47:59Z;2024-12-30T15:08:09Z;3.0;4.4;stuartcarnie;kleonc
+['Testes de Regressao'];Project Manager does not refresh properly when importing a project with Edit Now disabled;2024-12-27T09:24:07Z;2025-01-03T01:06:29Z;6.7;4.4;DJLink;larspet
+['Refatoracao', 'Testes de Regressao'];Attempting to populate MultiMeshInstance3D surface in version 4.4.dev7 crashes the engine;2024-12-27T03:50:19Z;2024-12-27T22:22:22Z;0.8;;SolsticeMage;matheusmdx
+[];Setting SpinBox value with signal gets overwritten by the LineEdit's text value when the LineEdit is about to lose focus.;2024-12-27T02:23:28Z;2025-01-13T23:22:40Z;17.9;4.4;Ketei;larspet
+['Refatoracao', 'Testes de Regressao'];Assertion `!xcb_xlib_threads_sequence_lost' failed.;2024-12-27T02:17:04Z;2025-01-06T23:59:19Z;10.9;;ghost;ghost
+['Testes de Regressao'];Duplicating a SpotLight3D Node crashes the editor (macOS);2024-12-26T22:07:35Z;2024-12-26T23:05:10Z;0.0;;quietbytes;novemberist
+['Refatoracao', 'Testes de Regressao'];Regression: TBN Vector Fixes break writing sdf shader normals;2024-12-26T08:03:51Z;2024-12-30T15:08:07Z;4.3;4.4;basicer;basicer
+[];Regression: Playing an Audio Stream animation backwards breaks the AudioStreamPlayer forever.;2024-12-26T07:34:25Z;2025-01-06T21:57:02Z;11.6;4.4;basicer;Chaosus
+['Testes de Regressao'];Custom FOV flips Sky upside down;2024-12-26T07:22:54Z;2025-01-09T19:55:43Z;14.5;4.4;vNakamura;TrueJole
+[];CSGPolygon3D - Certain numbers of Spin Sides always result in empty shape;2024-12-26T05:37:37Z;2024-12-30T15:08:07Z;4.4;4.4;novemberist;fire
+['Testes de Regressao'];Scene Tree Editor cache becomes invalid and crashes;2024-12-26T01:41:51Z;2025-01-06T21:56:59Z;11.8;4.4;timoschwarzer;hpvb
+['Refatoracao', 'Testes de Regressao'];ItemList 'Text Overrun Behavior' doens't work (as expected);2024-12-25T22:16:16Z;2025-01-28T15:09:00Z;33.7;4.4;TrueJole;havi05
+[];Cannot assign Array[A_Extend] to Array[A] in GDScript;2024-12-25T04:49:15Z;2024-12-25T17:15:05Z;0.5;;luckyabsoluter;tetrapod00
+['Testes de Regressao'];[v4.4.dev7] Color picker is unusable and flashes rapidly between black and white;2024-12-25T02:52:38Z;2025-01-14T11:09:38Z;20.3;4.4;HerrSersch;Chaosus
+['Refatoracao', 'Testes de Regressao'];Control Left-Click;2024-12-25T02:51:46Z;2024-12-25T03:00:15Z;0.0;;SoapSpangledGames;tetrapod00
+['Refatoracao', 'Testes de Regressao'];Godot Game - error when running in Ubuntu (PRoot-distro termux);2024-12-24T22:07:58Z;2025-01-28T09:11:47Z;34.5;;GdGohan;AThousandShips
+[];GPUParticlesCollisionHeightField3D is broken in 4.4dev6 and 4.4dev7;2024-12-24T20:11:31Z;2025-01-28T22:13:27Z;35.1;4.4;how2Bboss;clayjohn
+[];"GD 4.4dev7 E 0:00:31:0634   invert: Condition ""0.0 == r3[3]"" is true.   <C++ 源文件>      core/math/projection.cpp:758 @ invert()";2024-12-24T14:09:17Z;2024-12-25T17:58:56Z;1.2;;yythlj;matheusmdx
+['Refatoracao', 'Testes de Regressao'];Godot crashes when editing style boxes of `TabContainer`;2024-12-23T20:34:57Z;2025-01-14T17:32:38Z;21.9;4.4;em-s-h;AThousandShips
+['Refatoracao', 'Testes de Regressao'];Bidirectional flag in NavigationLink3D is no longer taken into account by NavigationAgent3D;2024-12-23T17:07:14Z;2024-12-26T15:48:45Z;2.9;4.4;HerrSersch;AThousandShips
+['Refatoracao', 'Testes de Regressao'];Godot crash on Linux when compiled with GCC 12;2024-12-23T16:20:38Z;2025-01-03T00:08:36Z;10.3;4.4;xsellier;xsellier
+[];Metal: Error compiling compute shader on iPhone A12;2024-12-23T14:36:59Z;2024-12-30T15:08:10Z;7.0;4.4;stuartcarnie;TCROC
+[];OperatorEvaluatorEqualObject;2024-12-23T10:52:00Z;2024-12-23T18:13:30Z;0.3;;zack-luan;dalexeev
+[];`NavigationServer3D::sync` can still be further optimized;2024-12-23T07:41:11Z;2025-02-01T10:11:45Z;40.1;;0x0ACB;Chaosus
+['Refatoracao', 'Testes de Regressao'];[Web] Input.mouse_mode returns wrong value;2024-12-23T00:29:31Z;2025-01-28T22:13:26Z;36.9;4.4;matmas;AThousandShips
+['Refatoracao', 'Testes de Regressao'];Game crashes when changing scenes while using a SubViewport with main Viewport's 2D world in it and a sound playing;2024-12-22T21:12:05Z;2024-12-23T21:59:51Z;1.0;;artnaum;AThousandShips
+['Refatoracao', 'Testes de Regressao'];[4.4dev7] Engine crashes when copying an OmniLight3D node;2024-12-22T16:16:22Z;2024-12-22T16:18:16Z;0.0;;cj0oste;AThousandShips
+['Refatoracao', 'Testes de Regressao'];Window ignores size changes when not in tree (Android only);2024-12-22T14:41:17Z;2024-12-23T17:22:31Z;1.1;4.4;Summersay415;Summersay415
+['Refatoracao', 'Testes de Regressao'];Documentation tooltips appear over debugger tooltips;2024-12-22T14:30:25Z;2025-01-07T22:27:20Z;16.3;4.4;KoBeWi;KoBeWi
+['Refatoracao', 'Testes de Regressao'];Godot crashes when using one-click deploy;2024-12-22T12:34:39Z;2024-12-23T17:22:31Z;1.2;4.4;beicause;beicause
+['Refatoracao', 'Testes de Regressao'];Copying SpotLight3D and OmniLight3D causes editor crash;2024-12-22T10:38:08Z;2024-12-22T14:34:19Z;0.2;;lethiandev;AThousandShips
+['Testes de Regressao'];"[4.4.dev7] OpenXRCompositionLayer - ""Enable Hole Punch"" breaks transparency";2024-12-22T09:11:31Z;2025-01-06T20:14:15Z;15.5;;arassec;Chaosus
+['Refatoracao', 'Testes de Regressao'];Project Manager shows `(DEBUG)` as title;2024-12-22T05:49:41Z;2024-12-30T15:08:04Z;8.4;4.4;timothyqiu;timothyqiu
+['Refatoracao', 'Testes de Regressao'];[4.4 dev7] Fonts using Multichannel Signed Distance Fields break when used in Label3D;2024-12-22T05:27:28Z;2024-12-22T06:38:41Z;0.0;4.4;AbsoluteMoose;clayjohn
+['Refatoracao', 'Testes de Regressao'];Progress for Path Follow Node does not update position/globalPosition;2024-12-21T22:17:54Z;2024-12-21T23:01:15Z;0.0;;EricXu1728;AThousandShips
+['Testes de Regressao'];Navigation regression from 4.4-dev6 to 4.4-dev7 allows for climbing heights which should not be possible;2024-12-21T21:07:13Z;2024-12-22T10:22:40Z;0.6;4.4;SmialyKot;AThousandShips
+['Refatoracao', 'Testes de Regressao'];Tooltips stops working after writing code;2024-12-21T20:41:25Z;2025-01-21T17:58:18Z;30.9;4.4;Giganzo;Sauermann
+['Refatoracao', 'Testes de Regressao'];[4.4dev7] Engine crashes when copy or duplicate 3d light (spotlight or omnilight);2024-12-21T19:21:13Z;2024-12-21T23:02:18Z;0.2;;cortrano;cortrano
+[];Linked GradientTexture2d properties for sprite2Ds created by copy and paste.;2024-12-21T17:46:36Z;2024-12-21T20:27:33Z;0.1;;atmosfaere;atmosfaere
+[];class_name doc comments before class are overridden by doc comments after it;2024-12-21T16:41:27Z;2024-12-21T20:09:52Z;0.1;4.4;idbrii;miv391
+[];`RigidBody3D` frozen as kinematic doesn't always report contacts with Jolt Physics;2024-12-21T15:54:01Z;2025-01-03T00:08:33Z;12.3;4.4;mihe;mihe
+['Testes de Regressao'];Editor setting `editors/grid_map/editor_side` is no longer used and has no effect;2024-12-21T15:49:13Z;2024-12-23T17:22:32Z;2.1;4.4;spoxii;spoxii
+[];Node inspector location jumping when tree item is opened or closed;2024-12-21T11:54:16Z;2025-01-28T15:08:58Z;38.1;4.4;miv391;kleonc
+[];`TextureProgressBar` minimal size is prioritized to `under` -> `over` -> `progress` textures;2024-12-21T11:20:49Z;2025-01-24T15:11:29Z;34.2;4.4;arkology;Chaosus
+['Refatoracao', 'Testes de Regressao'];Android AAB export results in no file being created;2024-12-21T07:37:55Z;2024-12-23T17:22:30Z;2.4;4.4;Bryce-Dixon;syntaxerror247
+['Refatoracao', 'Testes de Regressao'];[4.4.dev7] Android Editor: Godot GUI is out of screen/display then selecting animations;2024-12-21T03:01:19Z;2025-01-14T11:09:35Z;24.3;4.4;llama-nl;syntaxerror247
+[];When monitorable property of Area2D is true, the area does not detect when monitorable property of second overlapping Area2D is toggled;2024-12-21T02:57:09Z;2024-12-21T19:18:04Z;0.7;;AaronWizard;AaronWizard
+['Refatoracao', 'Testes de Regressao'];Ctrl + Clicking on a variable no-longer takes you to that variable, when said variable is within a Global Autoload- 4.4 dev7;2024-12-21T01:20:30Z;2024-12-23T17:22:33Z;2.7;4.4;AlexYates;dalexeev
+['Refatoracao', 'Testes de Regressao'];Label3D rendering solid color instead of text;2024-12-20T21:47:28Z;2024-12-21T23:15:06Z;1.1;4.4;Wiechciu;akien-mga
+['Refatoracao', 'Testes de Regressao'];[4.4 dev 7] Crash to Desktop on choosing skeleton node;2024-12-20T20:45:56Z;2024-12-20T23:01:46Z;0.1;4.4;Sove67;AThousandShips
+[];[4.4 dev7] Seperation Ray causes Mesh surface errors;2024-12-20T20:38:23Z;2025-01-20T22:31:56Z;31.1;4.4;Sove67;AThousandShips
+['Refatoracao', 'Testes de Regressao'];Weird PointLight2D LightOccluder2D behavior and crash;2024-12-20T20:05:47Z;2024-12-21T23:15:07Z;1.1;4.4;pmoosi;clayjohn
+['Refatoracao', 'Testes de Regressao'];[4.4dev7] Crash occurs shortly after clearing ItemList which contains item metadata;2024-12-20T19:21:47Z;2025-01-10T22:07:59Z;21.1;4.4;This-Gooch;AThousandShips
+[];MenuBar node's get_menu_title method is confusing;2024-12-20T18:21:34Z;2024-12-20T23:01:51Z;0.2;4.4;jan-kapoli;bruvzg
+['Refatoracao', 'Testes de Regressao'];`@export` open scene button not working.;2024-12-20T12:13:42Z;2024-12-22T10:53:43Z;1.9;4.4;hannan-ahmad;kleonc
+['Refatoracao', 'Testes de Regressao'];[4.4.dev7] Everything is black when baking shadows;2024-12-20T10:16:00Z;2025-01-06T21:57:06Z;17.5;4.4;SkanerSoft;SkanerSoft
+['Refatoracao', 'Testes de Regressao'];Failed to load .NET runtime - Error message has wrong version;2024-12-20T05:26:36Z;2024-12-20T23:01:52Z;0.7;4.4;Sove67;Sove67
+[];ui_accept source InputEvent passed to _unhandled_input when button has focus;2024-12-20T02:55:21Z;2024-12-20T08:53:34Z;0.2;;glenfletcher;Chaosus
+['Refatoracao', 'Testes de Regressao'];Duplicating a Decal (or Light3D) node crashes Godot;2024-12-20T02:51:39Z;2024-12-20T23:01:52Z;0.8;4.4;novemberist;clayjohn
+['Testes de Regressao'];Godot.NET.Sdk Nuget package out of date;2024-12-20T00:29:20Z;2024-12-20T07:44:20Z;0.3;4.4;warent;akien-mga
+['Refatoracao', 'Testes de Regressao'];TODO in RenderingDevice.cpp re: thread safety;2024-12-19T23:55:05Z;2025-01-06T21:57:06Z;17.9;4.4;clayjohn;clayjohn
+[];Project crashes when pausing and unpausing with a NavigationAgent in the scene;2024-12-19T21:02:34Z;2024-12-19T23:48:44Z;0.1;;stesproject;stesproject
+[];PointLight2D shadow buffer error;2024-12-19T15:23:16Z;2024-12-20T02:11:21Z;0.5;4.4;pmoosi;AThousandShips
+['Testes de Regressao'];Tracking temporary workaround: `_to_variant` for MSVC;2024-12-19T13:47:19Z;2025-01-28T15:11:27Z;40.1;4.4;Ivorforce;kiroxas
+[];transform.position doesn't follow default_float_step (limited to 3 decimal places);2024-12-19T07:32:34Z;2025-01-12T17:13:20Z;24.4;4.4;Zshandi;Zshandi
+[];Playing Animation backward does not play the last frame first;2024-12-19T05:14:32Z;2024-12-19T19:22:00Z;0.6;;sgervais333;sgervais333
+[];PhysicsServer2D.BodySetShapeDisabled potential memory leak;2024-12-18T23:37:00Z;2025-01-14T10:44:03Z;26.5;;MDouglas345;AThousandShips
+[];`in` operator for `PackedInt64Array` always returns `false` when operand `> 2147483647` (max signed `int32` value);2024-12-18T21:09:55Z;2024-12-20T02:11:23Z;1.2;4.4;coffeebeats;coffeebeats
+['Testes de Regressao'];Performance regressions in 2D Android builds in newer dev versions;2024-12-18T18:46:17Z;2025-01-28T09:10:40Z;40.6;;Ptkstefano;clayjohn

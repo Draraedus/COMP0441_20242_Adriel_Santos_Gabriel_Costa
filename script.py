@@ -1,7 +1,4 @@
-import requests
-import json
-import re
-
+import time
 
 from utils.getIssuesAndComments import merge_issues_with_comments
 from utils.issueClassification import classify_issue
@@ -24,7 +21,7 @@ def main():
         issues = merge_issues_with_comments(repo, state, limit, token)
         print(f"{len(issues)} issues encontradas.")
         
-        for issue in issues:
+        for index, issue in enumerate(issues):
             issue_filtered = {}
             issue_filtered["tema_relacionado"] = classify_issue(issue)
             issue_filtered["titulo"] = issue['issue']['title']
@@ -36,6 +33,7 @@ def main():
             issue_filtered["dev_responsavel"] = get_first_timeline_author(issue['issue'])
 
             issues_filtered.append(issue_filtered)
+            time.sleep(5)
         
         print("Issues filtradas com sucesso.")
 
